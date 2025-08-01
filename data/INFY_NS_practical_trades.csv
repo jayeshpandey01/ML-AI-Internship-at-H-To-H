@@ -1,0 +1,2 @@
+stock,entry_date,exit_date,entry_price,exit_price,shares,days_held,investment,exit_value,pnl,pnl_percent,entry_rsi,exit_rsi,buy_reason,sell_reason,profitable
+INFY.NS,2025-07-25 00:00:00+05:30,2025-07-30 00:00:00+05:30,1515.699951171875,1519.0,6.597611877118834,3,10000,10021.77244134351,21.772441343509854,0.21772441343509852,32.412013893040225,34.11765120410655,RSI Oversold (32.4) + Bullish Trend,Bearish MA Crossover,True

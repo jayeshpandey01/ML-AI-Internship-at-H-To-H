@@ -1,0 +1,4 @@
+stock,entry_date,exit_date,entry_price,exit_price,shares,days_held,investment,exit_value,pnl,pnl_percent,entry_rsi,exit_rsi,buy_reason,sell_reason,profitable
+RELIANCE.NS,2025-03-15,2025-03-20,1420.5,1445.3,7.04,5,10000,10174.51,174.51,1.75,28.5,45.2,RSI Oversold (28.5) + Bullish MA Crossover,Holding Period Exceeded (5 days),True
+HDFCBANK.NS,2025-04-10,2025-04-12,1875.2,1820.15,5.33,2,10000,9705.4,-294.6,-2.95,29.8,25.1,RSI Oversold (29.8) + Bullish MA Crossover,Bearish MA Crossover,False
+INFY.NS,2025-05-22,2025-05-27,1650.75,1698.2,6.06,5,10000,10287.49,287.49,2.87,27.3,52.8,RSI Oversold (27.3) + Bullish MA Crossover,Holding Period Exceeded (5 days),True
