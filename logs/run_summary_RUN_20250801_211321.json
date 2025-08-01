@@ -1,0 +1,16 @@
+{
+  "run_id": "RUN_20250801_211321",
+  "start_time": "2025-08-01T21:13:21.209268",
+  "end_time": "2025-08-01T21:13:25.627005",
+  "duration_seconds": 4.417737,
+  "stocks_processed": 3,
+  "total_trades": 32,
+  "total_pnl": 7152.203409935926,
+  "overall_win_ratio": 84.375,
+  "system_stats": {
+    "total_runs": 1,
+    "success_runs": 0,
+    "error_runs": 0,
+    "success_rate": 0.0
+  }
+}
