@@ -25,7 +25,6 @@ This guide will help you set up real-time Telegram notifications for your algo-t
 Example response:
 ```
 Congratulations! Here is your token:
-6757118610:AAFmIzSIwfdh9z8JYCKLOfzDWvZ0b_AErA0
 
 Keep your token secure and store it safely, it can be used by anyone to control your bot.
 ```
